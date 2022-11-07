@@ -78,6 +78,8 @@ body {
   top:50%;
   vertical-align:middle;
   text-align: center;
+  align-items: center;
+  
 }
 
 </style>
