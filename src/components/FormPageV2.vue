@@ -140,7 +140,6 @@
                     Description : this.Description
                 }
                  this.$emit('add-information', NewInformation)
-                console.log("ai reusit!!!!",NewInformation)
                 return NewInformation
             }
         },
