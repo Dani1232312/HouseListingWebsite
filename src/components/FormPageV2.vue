@@ -123,7 +123,6 @@
         methods : {
             onSubmit(e){
                 e.preventDefault()
-                console.log("name",this.name)
                 const NewInformation = {
                     id: Math.floor(Math.random() * 100000),
                     name : this.name,
