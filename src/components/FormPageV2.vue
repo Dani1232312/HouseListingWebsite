@@ -73,7 +73,7 @@
             <span>
                 <p>Bathrooms*</p>
             <input
-                type="number"
+                type="number" 
                 :value="bathrooms"
                 @input="$emit('update:bathrooms', $event.target.value)"
             />
