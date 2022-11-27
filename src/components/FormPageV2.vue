@@ -10,7 +10,7 @@
         </div>
         <div id="form2">
             <span>
-                <p>House number*</p>
+                <p>House number* </p>
                 <input
                         type="text"
                         :value="number"
